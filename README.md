@@ -1,6 +1,6 @@
 # timbre-transfer
 
-This is the code repository for the paper Instrumental Timbre Transfer based on Disentangled Representation of Timbre and Pitch. 
+This is the code repository for the paper Instrumental Timbre Transfer Based on Disentangled Representation of Timbre and Pitch. 
 
 ## Abstract
 
