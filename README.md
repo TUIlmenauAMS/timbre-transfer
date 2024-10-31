@@ -11,3 +11,7 @@ In order to investigate the possibility of effective representation for pitch an
 The training and inference code are provided in:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pBT4P_FWldxADBgfzgM3hgVUdX9QArPP?usp=sharing)
+
+## Asilomar 2024 Talk
+
+To play the sound examples from the talk slides Asilomar2024TimbreTalk.pdf, download it, also download the audio examples directory into the same directory, and rename it "Audios".
