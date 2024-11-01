@@ -14,7 +14,7 @@ The training and inference code are provided in:
 
 ## Asilomar 2024 Talk
 
-To play the sound examples from the talk slides "Asilomar2024TimbreTalk.pdf", download it, also download the audio examples directory into the same directory, and rename it "Audios". Then open the pdf file with the Adobe Acrobat Reader.
+To play the sound examples from the talk slides ["Asilomar2024TimbreTalk.pdf"](Asilomar2024TimbreTalk.pdf), download it, also download the audio examples directory into the same directory, and rename it "Audios". Then open the pdf file with the Adobe Acrobat Reader.
 
 ## Chatbot
 We also have a chatbot for this project, which you can ask details, in:
