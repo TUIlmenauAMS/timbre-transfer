@@ -14,7 +14,9 @@ The training and inference code are provided in:
 
 ## Asilomar 2024 Talk
 
-To play the sound examples from the talk slides ["Asilomar2024TimbreTalk.pdf"](Asilomar2024TimbreTalk.pdf), download it, also download the audio examples directory into the same directory, and rename it "Audios". Then open the pdf file with the Adobe Acrobat Reader.
+To play the sound examples from the talk slides ["Asilomar2024TimbreTalk.pdf"](Asilomar2024TimbreTalk.pdf), download it, also download the audio examples directory into the same directory, and rename it "Audios". Then open the pdf file with the Adobe Acrobat Reader. The talk was part of the special session "Perceptual and Higher Level Loss and Distance Functions for Audio and Acoustics" at the Asilomar Conference on Signals, Systems and Computers, October 2024,
+
+https://cmsworkshops.com/Asilomar2024/view_session.php?SessionID=1126
 
 ## Chatbot
 We also have a chatbot for this project, which you can ask details, in:
